@@ -1,6 +1,6 @@
 
  /*import fonts from fonts.css file*/
- @import url(./original-source/css/fonts.css);
+ @import url(./fonts.css);
  
 
  /*css variables*/
@@ -9,7 +9,8 @@
  
  
  
- /*start navigation*/
+
+ /*navigation*/
  
  .header_area.main-menu.navbar.navbar-brand{
     padding: 0 2rem 0 5rem;
@@ -40,12 +41,13 @@
      background-clip: text;
  }
  
- /*end navigation*/
+ /*navigation*/
  
  
  
  
- /*start banner area*/
+
+ /*banner area*/
  
  .site-main.site-banner{
      padding-top: 35%;
@@ -53,4 +55,4 @@
  }
  
  
- /*end of banner area*/
+ /*banner area*/
