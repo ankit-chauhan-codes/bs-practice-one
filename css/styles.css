@@ -116,5 +116,11 @@
     padding: 1rem 20rem;
     margin-bottom: 4rem;
 }
+
+.site-main .brand-area .first-row .col-lg-4{
+     display: flex;
+     justify-content: center;
+}
+
  /*brand area*/
  
