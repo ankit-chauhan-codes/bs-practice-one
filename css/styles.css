@@ -89,9 +89,10 @@
 
 
 
+ 
  /*about area*/
 
- .site-main.about-area{
+ .site-main .about-area{
      padding: 8rem 5rem;
  }
  /*about area*/
