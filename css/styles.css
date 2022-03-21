@@ -71,6 +71,11 @@
     margin-left: 5%;
     transform: translateY(-10px);
 }
+
+.site-main .site-banner .site-title h1{
+    font-size: 5rem;
+}
+
  /*banner area*/
 
 
