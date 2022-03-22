@@ -137,5 +137,10 @@
     box-shadow: var(--box-shadow);
     transform: scale(1.1);
 }
+
+.site-main .brand-area .first-row .col-lg-4 .single-brand img{
+    width: 50%;
+}
+
  /*brand area*/
  
