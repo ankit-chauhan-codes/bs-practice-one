@@ -289,5 +289,17 @@
     width: 12px;
     height: 12px;
 }
- 
-  /*client section*/
+   /*client section*/
+
+
+
+
+
+   /*subscribe section*/
+
+   .site-main .subscribe-us-area .subscribe{
+       background: url(../img/subscribe-bg.png);
+       padding: 10rem;
+       margin: 3rem auto;
+   }
+   /*subscribe section*/
