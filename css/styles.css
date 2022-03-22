@@ -195,4 +195,12 @@
  .site-main .services-area{
      padding: 7rem 2rem;  
  }
+
+ .site-main .services-area .services-title{
+     padding: 0.14rem;
+ }
+
+ .site-main .services-area .services-title h1{
+     font-size: 35px;
+ }
  /*services area*/
