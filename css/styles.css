@@ -277,4 +277,12 @@
   .site-main .about-area .client .about-client p{
       font-size: 14px;
   }
+
+  .site-main .about-area .owl-carousel .owl-item{
+      display: flex;
+      justify-content: center;
+      padding: 0 1.5rem;
+  }
+
+ 
   /*client section*/
