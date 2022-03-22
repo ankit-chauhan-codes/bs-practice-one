@@ -255,4 +255,10 @@
   .site-main .about-area .about-title{
       padding: 1rem 7rem;
   }
+
+  .site-main .about-area .client{
+      background: #ffffff10;
+      box-shadow: var(--box-shadow);
+      margin: 3rem 0rem;
+  }
   /*client section*/
