@@ -203,4 +203,8 @@
  .site-main .services-area .services-title h1{
      font-size: 35px;
  }
+
+ .site-main .services-area .services{
+     background: rgba(248, 252, 253, 0.973);
+ }
  /*services area*/
