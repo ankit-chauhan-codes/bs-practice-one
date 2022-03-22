@@ -152,6 +152,7 @@
 
 .site-main .brand-area .experience-area span{
     display: block;
+    font: normal 600 22px/30px var(--roboto);
 }
 
 .site-main .brand-area .experience-area .years-area{
@@ -162,6 +163,13 @@
     padding-left: 8rem;
     position: relative;
 }
+
+.site-main .brand-area .experience-area .years-area .years{
+    font: normal bold 84px/40px var(--roboto);
+    color: var(--primary-color2);
+    z-index: 2;
+}
+
 
  /*brand area*/
  
