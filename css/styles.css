@@ -302,4 +302,14 @@
        padding: 10rem;
        margin: 3rem auto;
    }
+
+   .site-main .subscribe-us-area .subscribe .subscribe-title h4{
+       font: normal 700 30px/30px var(--roboto);
+       color: whitesmoke;
+   }
+
+   .site-main .subscribe-us-area .subscribe .subscribe-title p{
+       color: whitesmoke;
+       padding: 1rem 4rem;
+   }
    /*subscribe section*/
