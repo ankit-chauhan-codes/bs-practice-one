@@ -75,3 +75,15 @@ p.para{
     font-family: var(--roboto);
 }
     
+
+/* Buttons at Project Area*/
+
+    button:focus,
+    button:active,
+    button:hover,
+    .btn:active,
+    .btn.active{
+        outline: 0px !important;
+        border: none !important;
+    }
+/* Buttons at Project Area*/
