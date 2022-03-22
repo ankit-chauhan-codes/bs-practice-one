@@ -217,3 +217,13 @@
      box-shadow: var(--box-shadow);
  }
  /*services area*/
+
+
+
+
+  /*project area*/
+
+  .site-main .project-area{
+      padding: 4rem 0;
+  }
+  /*project area*/
