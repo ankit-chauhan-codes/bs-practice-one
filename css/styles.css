@@ -142,5 +142,9 @@
     width: 50%;
 }
 
+.site-main .brand-area .first-row .col-lg-4 .single-brand:hover img{
+    filter: brightness(0.15);
+}
+
  /*brand area*/
  
