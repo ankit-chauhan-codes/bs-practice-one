@@ -132,5 +132,10 @@
     cursor: pointer;
     transition: transform 0.4s ease;
 }
+
+.site-main .brand-area .first-row .col-lg-4 .single-brand:hover{
+    box-shadow: var(--box-shadow);
+    transform: scale(1.1);
+}
  /*brand area*/
  
