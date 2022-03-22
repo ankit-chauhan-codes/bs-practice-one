@@ -261,4 +261,20 @@
       box-shadow: var(--box-shadow);
       margin: 3rem 0rem;
   }
+
+  .site-main .about-area .client .client-img{
+    padding: 2rem;
+  }
+
+  .site-main .about-area .client .about-client{
+      padding-top: 2rem;
+  }
+
+  .site-main .about-area .client .about-client h4{
+      font: normal 500 21px/20px var(--roboto);
+  }
+  
+  .site-main .about-area .client .about-client p{
+      font-size: 14px;
+  }
   /*client section*/
