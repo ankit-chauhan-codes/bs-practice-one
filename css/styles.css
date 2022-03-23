@@ -314,7 +314,7 @@
    }
 
    .site-main .subscribe-us-area .subscribe form .input-textbox input{
-       width: 280px;
+       width: 200px;
        padding: 1.5rem 1rem;
        border: 1px solid whitesmoke;
        background: transparent;
@@ -324,5 +324,11 @@
 
    .site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
        color: whitesmoke;
+   }
+
+   .site-main .subscribe-us-area .subscribe form .btn-submit button{
+       background: whitesmoke;
+       color: black;
+       padding: 0.7rem 2rem;
    }
    /*subscribe section*/
