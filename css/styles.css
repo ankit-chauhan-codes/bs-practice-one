@@ -312,4 +312,13 @@
        color: whitesmoke;
        padding: 1rem 4rem;
    }
+
+   .site-main .subscribe-us-area .subscribe form .input-textbox input{
+       width: 280px;
+       padding: 1.5rem 1rem;
+       border: 1px solid whitesmoke;
+       background: transparent;
+       color: white;
+       font: normal 500 17px/20px var(--roboto);
+   }
    /*subscribe section*/
