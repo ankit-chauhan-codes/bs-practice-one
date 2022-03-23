@@ -332,3 +332,15 @@
        padding: 0.7rem 2rem;
    }
    /*subscribe section*/
+
+
+
+
+
+   /*footer section*/
+
+   .site-main .footer-area{
+       padding: 5rem 0;
+       background: url(../img/footer-bg.png) no-repeat;
+   }
+   /*footer section*/
