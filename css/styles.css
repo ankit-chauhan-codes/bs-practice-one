@@ -321,4 +321,8 @@
        color: white;
        font: normal 500 17px/20px var(--roboto);
    }
+
+   .site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
+       color: whitesmoke;
+   }
    /*subscribe section*/
