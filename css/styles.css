@@ -1,4 +1,4 @@
-
+ 
  /*import fonts from fonts.css file*/
  @import url(./fonts.css);
  
@@ -183,6 +183,15 @@
 .site-main .brand-area .experience-area .call-area{
     padding-left: 10rem;
 }
+
+.site-main .brand-area .experience-area .call-area .call-now .number{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.site-main .brand-area .experience-area .call-area .call-now{
+    padding-left: 1rem;
+}
  /*brand area*/
  
 
@@ -267,7 +276,7 @@
   }
 
   .site-main .about-area .client .about-client{
-      padding-top: 2rem;
+      padding-top: 3rem;
   }
 
   .site-main .about-area .client .about-client h4{
@@ -310,11 +319,11 @@
 
    .site-main .subscribe-us-area .subscribe .subscribe-title p{
        color: whitesmoke;
-       padding: 1rem 4rem;
+       padding: 1rem 2rem;
    }
 
    .site-main .subscribe-us-area .subscribe form .input-textbox input{
-       width: 220px;
+       width: 400px;
        padding: 1.5rem 1rem;
        border: 1px solid whitesmoke;
        background: transparent;
@@ -329,7 +338,7 @@
    .site-main .subscribe-us-area .subscribe form .btn-submit button{
        background: whitesmoke;
        color: black;
-       padding: 0.7rem 2rem;
+       padding: 0.7rem 1.8rem;
    }
    /*subscribe section*/
 
